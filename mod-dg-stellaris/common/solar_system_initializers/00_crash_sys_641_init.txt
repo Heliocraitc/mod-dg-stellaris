@@ -1,0 +1,10 @@
+sys_641_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}

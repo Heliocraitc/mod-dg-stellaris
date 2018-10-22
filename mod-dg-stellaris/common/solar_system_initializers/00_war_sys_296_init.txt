@@ -1,0 +1,9 @@
+sys_296_init = {
+    class = random
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 20
+    }
+}
