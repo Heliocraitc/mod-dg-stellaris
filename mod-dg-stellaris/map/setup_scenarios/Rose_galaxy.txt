@@ -1,14 +1,48 @@
 #Made with Retalyx Static Galaxy Generator v0.9
 static_galaxy_scenario = {
-    name = "Rose"
-    priority = 0
+    name = "Rose Galaxy Cluster"
+    priority = 2
     default = no
     colonizable_planet_odds = 1.0
-    num_empires = { min = 1 max = 29 }
-    num_empire_default = 29
-    advanced_empire_default = 0
+    num_empires = { min = 1 max = 23 }
+	num_empire_default = 12
+	fallen_empire_default = 4
+	fallen_empire_max = 4
+	marauder_empire_default = 3
+	marauder_empire_max = 3
+	advanced_empire_default = 4
+	primitive_odds = 1.0
+	crisis_strength = 2
     core_radius = 0
-    random_hyperlanes = yes
+	
+	max_hyperlane_distance = 14
+
+	home_system_partitions = {
+		max_systems = 15
+		min_systems= 8
+
+		min_bridges = 2
+		max_bridges = 4
+
+		method = breadth_first
+	}
+
+	open_space_partitions = {
+		max_systems = 10
+		min_systems= 4
+
+		min_bridges = 2
+		max_bridges = 2
+
+		method = depth_first
+	}
+	
+	num_wormhole_pairs = { min = 0 max = 5 }
+	num_wormhole_pairs_default = 1
+	num_gateways = { min = 0 max = 5 }
+	num_gateways_default = 1
+	num_hyperlanes = { min = 1 max = 5 }
+	num_hyperlanes_default = 3
 
     system = {
         id = "0"
