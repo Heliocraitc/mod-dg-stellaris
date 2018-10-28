@@ -1,4 +1,4 @@
-sys_634_init = {
+four_sys_634_init = {
     name = "Supermassive Blackhole"
     class = "pc_black_hole"
 
