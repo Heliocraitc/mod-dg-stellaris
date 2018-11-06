@@ -5,7 +5,7 @@ static_galaxy_scenario = {
     priority = 0
     default = yes
     colonizable_planet_odds = 1.0
-    num_empires = { min = 1 max = 31 }
+    num_empires = { min = 0 max = 31 }
 	num_empire_default = 19
 	fallen_empire_default = 6
 	fallen_empire_max = 6
@@ -25,7 +25,7 @@ static_galaxy_scenario = {
 		max = 6
 	}
 	cluster_radius = 150
-	cluster_distance_from_core = 850 #Custom value, default is 300, my static maps are 800 in size.
+	cluster_distance_from_core = 300 #Custom value, default is 300, my static maps are 800 in size. - Heliomachit
 
 	home_system_partitions = {
 		max_systems = 15
@@ -54,7 +54,7 @@ static_galaxy_scenario = {
 	num_hyperlanes = { min = 1 max = 5 }
 	num_hyperlanes_default = 3
 	
-	num_nebulas	= 10 #Custom value, 100 stars = 1 nebulae
+	num_nebulas	= 10 #Custom value, 100 stars = 1 nebulae  - Heliomachit
 	nebula_size = 60
 	nebula_min_dist = 200
 	
@@ -66,6 +66,8 @@ static_galaxy_scenario = {
             x = -391
             y = 245
         }
+        initializer = retalyx_random_spawn
+        spawn_weight = { base = 0.04 }
     }
 
     system = {
@@ -459,7 +461,7 @@ static_galaxy_scenario = {
             y = -297
         }
         initializer = retalyx_random_spawn
-        spawn_weight = { base = 1 }
+        spawn_weight = { base = 0.04 }
     }
 
     system = {
@@ -631,7 +633,7 @@ static_galaxy_scenario = {
             x = -347
             y = -162
         }
-        initializer = sys_70_init
+        initializer = war_sys_70_init
     }
 
     system = {
@@ -929,7 +931,7 @@ static_galaxy_scenario = {
             x = -333
             y = -277
         }
-        initializer = sys_107_init
+        initializer = war_sys_107_init
     }
 
     system = {
@@ -2319,7 +2321,7 @@ static_galaxy_scenario = {
             x = -243
             y = 255
         }
-        initializer = sys_280_init
+        initializer = war_sys_280_init
     }
 
     system = {
@@ -2448,7 +2450,7 @@ static_galaxy_scenario = {
             x = -243.779
             y = 346.7687
         }
-        initializer = sys_296_init
+        initializer = war_sys_296_init
     }
 
     system = {
@@ -4936,7 +4938,7 @@ static_galaxy_scenario = {
             x = 37
             y = -180
         }
-        initializer = sys_604_init
+        initializer = war_sys_604_init
     }
 
     system = {
@@ -7122,7 +7124,7 @@ static_galaxy_scenario = {
             x = 201
             y = 233
         }
-        initializer = sys_875_init
+        initializer = war_sys_875_init
     }
 
     system = {
@@ -8330,7 +8332,7 @@ static_galaxy_scenario = {
             x = -59.79971
             y = 77.6544
         }
-        initializer = sys_1026_init
+        initializer = war_sys_1026_init
     }
 
     system = {
@@ -8340,7 +8342,7 @@ static_galaxy_scenario = {
             x = -241.3624
             y = -187.7627
         }
-        initializer = sys_1027_init
+        initializer = war_sys_1027_init
     }
 
     system = {
@@ -8350,7 +8352,7 @@ static_galaxy_scenario = {
             x = 5.787735
             y = 99.29933
         }
-        initializer = sys_1029_init
+        initializer = war_sys_1029_init
     }
 
     system = {
@@ -8360,7 +8362,7 @@ static_galaxy_scenario = {
             x = 73.74519
             y = 119.8842
         }
-        initializer = sys_1030_init
+        initializer = war_sys_1030_init
     }
 
     system = {
@@ -8370,7 +8372,7 @@ static_galaxy_scenario = {
             x = 236.7256
             y = 70.76038
         }
-        initializer = sys_1031_init
+        initializer = war_sys_1031_init
     }
 
     system = {
@@ -8380,7 +8382,7 @@ static_galaxy_scenario = {
             x = 216.14
             y = 13.21524
         }
-        initializer = sys_1032_init
+        initializer = war_sys_1032_init
     }
 
     system = {
@@ -8390,7 +8392,7 @@ static_galaxy_scenario = {
             x = -26.7929
             y = 146.5061
         }
-        initializer = sys_1033_init
+        initializer = war_sys_1033_init
     }
 
     system = {
@@ -8400,7 +8402,7 @@ static_galaxy_scenario = {
             x = -202.2915
             y = -309.0558
         }
-        initializer = sys_1034_init
+        initializer = war_sys_1034_init
     }
 
     system = {
@@ -8410,7 +8412,7 @@ static_galaxy_scenario = {
             x = -236.6529
             y = -325.6451
         }
-        initializer = sys_1035_init
+        initializer = war_sys_1035_init
     }
 
     add_hyperlane = { from = "0" to = "1" }

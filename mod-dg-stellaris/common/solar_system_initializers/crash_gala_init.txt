@@ -1,0 +1,154 @@
+crash_sys_630_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_631_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_632_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_633_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_634_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_635_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_636_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_637_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_638_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_639_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_640_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_641_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_642_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+crash_sys_643_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+

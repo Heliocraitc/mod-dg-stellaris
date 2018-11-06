@@ -3,6 +3,7 @@
 #  Randomly Generated Starting Systems  #
 #										
 #########################################
+#Edited by Heliomachit
 
 @distance = 50
 @planet_min_size = 10

@@ -1,3 +1,4 @@
+#Edited by Heliomachit
 random_list = {
 	name = retalyx_random_spawn
 	

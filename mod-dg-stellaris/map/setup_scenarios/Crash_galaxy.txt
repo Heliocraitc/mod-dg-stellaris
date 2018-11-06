@@ -1,11 +1,11 @@
 #Made with Retalyx Static Galaxy Generator v0.9
-#Fixed by Heliomachit
+#Edited by Heliomachit
 static_galaxy_scenario = {
     name = "Crash Galaxy Cluster (600 Stars)"
     priority = 0
     default = no
     colonizable_planet_odds = 1.0
-    num_empires = { min = 1 max = 27 }
+    num_empires = { min = 0 max = 27 }
 	num_empire_default = 14
 	fallen_empire_default = 3
 	fallen_empire_max = 4
@@ -25,7 +25,7 @@ static_galaxy_scenario = {
 		max = 6
 	}
 	cluster_radius = 150
-	cluster_distance_from_core = 850 #Custom value, default is 300, my static maps are 800 in size.
+	cluster_distance_from_core = 300 #Custom value, default is 300, my static maps are 800 in size. - Heliomachit
 
 	home_system_partitions = {
 		max_systems = 15
@@ -54,7 +54,7 @@ static_galaxy_scenario = {
 	num_hyperlanes = { min = 1 max = 5 }
 	num_hyperlanes_default = 3
 	
-	num_nebulas	= 6 #Custom value, 100 stars = 1 nebulae
+	num_nebulas	= 6 #Custom value, 100 stars = 1 nebulae - Heliomachit
 	nebula_size = 60
 	nebula_min_dist = 200
 
@@ -5167,7 +5167,7 @@ static_galaxy_scenario = {
             x = 163.9897
             y = 39.82164
         }
-        initializer = sys_630_init
+        initializer = crash_sys_630_init
     }
 
     system = {
@@ -5177,7 +5177,7 @@ static_galaxy_scenario = {
             x = 220.4298
             y = 57.38077
         }
-        initializer = sys_631_init
+        initializer = crash_sys_631_init
     }
 
     system = {
@@ -5187,7 +5187,7 @@ static_galaxy_scenario = {
             x = 125.7359
             y = 153.3289
         }
-        initializer = sys_632_init
+        initializer = crash_sys_632_init
     }
 
     system = {
@@ -5197,7 +5197,7 @@ static_galaxy_scenario = {
             x = 147.0577
             y = 184.0573
         }
-        initializer = sys_633_init
+        initializer = crash_sys_633_init
     }
 
     system = {
@@ -5217,7 +5217,7 @@ static_galaxy_scenario = {
             x = -19.59553
             y = 243.8053
         }
-        initializer = sys_635_init
+        initializer = crash_sys_635_init
     }
 
     system = {
@@ -5227,7 +5227,7 @@ static_galaxy_scenario = {
             x = 148.1059
             y = -58.78664
         }
-        initializer = sys_636_init
+        initializer = crash_sys_636_init
     }
 
     system = {
@@ -5237,7 +5237,7 @@ static_galaxy_scenario = {
             x = 189.1199
             y = -92.50923
         }
-        initializer = sys_637_init
+        initializer = crash_sys_637_init
     }
 
     system = {
@@ -5247,7 +5247,7 @@ static_galaxy_scenario = {
             x = 56.33603
             y = -122.7533
         }
-        initializer = sys_638_init
+        initializer = crash_sys_638_init
     }
 
     system = {
@@ -5257,7 +5257,7 @@ static_galaxy_scenario = {
             x = 96.15492
             y = -151.7516
         }
-        initializer = sys_639_init
+        initializer = crash_sys_639_init
     }
 
     system = {
@@ -5267,7 +5267,7 @@ static_galaxy_scenario = {
             x = -50.58389
             y = -200.9684
         }
-        initializer = sys_640_init
+        initializer = crash_sys_640_init
     }
 
     system = {
@@ -5277,7 +5277,7 @@ static_galaxy_scenario = {
             x = -24.15268
             y = -245.628
         }
-        initializer = sys_641_init
+        initializer = crash_sys_641_init
     }
 
     system = {
@@ -5287,7 +5287,7 @@ static_galaxy_scenario = {
             x = -38.73541
             y = -162.6886
         }
-        initializer = sys_642_init
+        initializer = crash_sys_642_init
     }
 
     system = {
@@ -5297,7 +5297,7 @@ static_galaxy_scenario = {
             x = 13.21559
             y = -178.1828
         }
-        initializer = sys_643_init
+        initializer = crash_sys_643_init
     }
 
 

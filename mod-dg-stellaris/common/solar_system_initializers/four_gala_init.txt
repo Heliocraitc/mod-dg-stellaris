@@ -1,0 +1,153 @@
+four_sys_169_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_182_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_185_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_199_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_610_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_634_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_652_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_686_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_714_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_737_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_1266_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_1277_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_1283_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+four_sys_1295_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}

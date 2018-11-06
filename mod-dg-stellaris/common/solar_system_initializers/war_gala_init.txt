@@ -1,0 +1,163 @@
+war_sys_70_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+war_sys_107_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+war_sys_280_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+war_sys_296_init = {
+    class = random
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+war_sys_604_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+war_sys_875_init = {
+    name = "Supermassive Blackhole"
+    class = "pc_black_hole"
+
+    planet = {
+        class = star
+        orbit_distance = 0
+        size = 200
+    }
+}
+
+war_sys_1026_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+war_sys_1027_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+war_sys_1029_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+war_sys_1030_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+war_sys_1031_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+war_sys_1032_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+war_sys_1033_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+war_sys_1034_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
+
+war_sys_1035_init = {
+    name = "Void"
+    class = random
+
+    planet = {
+        class = none
+        orbit_distance = 0
+        size = 20
+    }
+}
